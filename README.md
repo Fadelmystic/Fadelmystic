@@ -91,10 +91,6 @@ Actuellement étudiant en **Master Data Science & Big Data** à la FSBM (Casabla
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=radical&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON-USERNAME&layout=compact&theme=radical&hide_border=true" height="180px"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON-USERNAME&theme=radical&hide_border=true" />
