@@ -1,72 +1,97 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200px"/>
-  
-  <h1>Salut, je suis <a href="https://github.com/TON-USERNAME">Ton Prénom !</a> <img src="https://media.giphy.com/media/hvRJCLFzcuMiS/giphy.gif" width="30px"></h1>
-
-  <h3>👨‍💻 Data Scientist | Passionné d'IoT | Architecte Big Data</h3>
-  
-  <p>
-    <a href="edin.com/in/beniche-mohamed-fadel-9629882b7/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:mohamedfadelbeniche@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://TON-PORTFOLIO.COM">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Website"/>
-    </a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=009688&height=220&section=header&text=Mohamed%20Fadel%20BENICHE&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%7C%20Cloud%20Architect%20%7C%20IoT%20Enthusiast&descAlignY=55&descAlign=50"/>
 </div>
 
----
-
-### 🧐 À propos de moi
-
-- 🔭 Je travaille actuellement sur **[Nom de ton projet actuel]**
-- 🌱 J'apprends actuellement **[Technologie que tu étudies, ex: Kafka, Spark]**
-- 👯 Je cherche à collaborer sur des projets **Open Source & Data**
-- 🎓 Étudiant en **[Ta filière / Master]**
-- ⚡ Fun fact : **[Une petite anecdote sur toi]**
-
----
-
-### 🛠️ Tech Stack & Outils
-
 <div align="center">
+  <a href="https://linkedin.com/in/TON-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connecter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohamedfadelbeniche@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me%20Contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/TON-USERNAME?tab=repositories">
+    <img src="https://img.shields.io/badge/Projets-Voir%20le%20Code-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
-| Catégorie | Technologies |
+<br />
+
+### 👨‍💻 À propos de moi
+
+Actuellement étudiant en **Master Data Science & Big Data** à la FSBM (Casablanca), je suis passionné par la conception d'architectures distribuées et l'intelligence artificielle. Mon focus se porte sur le **Domain-Driven Design (DDD)**, l'automatisation **DevOps** et les systèmes **Data-Intensive**.
+
+---
+
+### 🛠️ Arsenal Technique
+
+| Domaine | Technologies Maîtrisées |
 | :--- | :--- |
-| **Langages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **Big Data** | ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache&logoColor=black) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) |
-| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| **Outils** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
-
-</div>
+| **Backend & Microservices** | ![Java](https://img.shields.io/badge/Java-Spring_Boot-green?style=flat-square&logo=springboot) ![Kafka](https://img.shields.io/badge/Apache_Kafka-Event_Driven-black?style=flat-square&logo=apachekafka) ![Python](https://img.shields.io/badge/Python-FastAPI-blue?style=flat-square&logo=python) |
+| **Data & IA** | ![Spark](https://img.shields.io/badge/Big_Data-Spark-orange?style=flat-square&logo=apachespark) ![Neo4j](https://img.shields.io/badge/Graph_DB-Neo4j-blue?style=flat-square&logo=neo4j) ![LLM](https://img.shields.io/badge/AI-RAG_&_LLaMA-purple?style=flat-square) |
+| **DevOps & Cloud** | ![K8s](https://img.shields.io/badge/Orchestration-Kubernetes-326ce5?style=flat-square&logo=kubernetes) ![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC?style=flat-square&logo=terraform) ![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4?style=flat-square&logo=microsoftazure) |
+| **Web3 & Blockchain** | ![Solidity](https://img.shields.io/badge/Smart_Contracts-Solidity-363636?style=flat-square&logo=solidity) ![Hardhat](https://img.shields.io/badge/Dev-Hardhat-yellow?style=flat-square) |
 
 ---
 
-### 🚀 Projets Phares
+### 🚀 Portfolio de Projets (Architecture & Ingénierie)
 
-| Projet | Description | Stack Technique |
+#### 1. Surplus Marketplace (Microservices & DDD)
+> *Plateforme de lutte contre le gaspillage alimentaire connectant vendeurs et ONG.*
+> **Architecture :** Basée sur le Domain-Driven Design (DDD), communication asynchrone via Kafka, et déploiement conteneurisé.
+
+| Composant | Stack Technique | Détails Clés |
 | :--- | :--- | :--- |
-| **[Nom Projet 1]** | Une brève description de ce que fait le projet et du problème qu'il résout. | `Python` `Django` `React` |
-| **[Nom Projet 2]** | Description d'un projet IoT ou Big Data. | `Arduino` `MQTT` `Node-RED` |
-| **[Nom Projet 3]** | Analyse de données ou architecture. | `Spark` `Hadoop` `Tableau` |
+| **Backend** | `Spring Boot` `Java 17` | Architecture hexagonale, Sécurité via **Keycloak** (OIDC), APIs REST. |
+| **Data** | `PostgreSQL` `MongoDB` | Base relationnelle pour les transactions (Orders), NoSQL pour les listings flexibles. |
+| **Messaging** | `Apache Kafka` | Gestion événementielle (OrderPlaced, DonationClaimed) pour découpler les services. |
+| **Frontend** | `React` `Figma` | Interface utilisateur pour la gestion des listings et suivi des dons. |
 
 ---
 
-### 📊 GitHub Stats
+#### 2. Infrastructure DevOps & Automatisation Cloud
+> *Pipeline CI/CD complet pour le déploiement d'une application conteneurisée sur Azure.*
+> **Objectif :** Mise en place d'une chaîne automatisée "Infrastructure as Code" (IaC) et orchestration.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=radical&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON-USERNAME&layout=compact&theme=radical&hide_border=true" height="180px"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON-USERNAME&theme=radical&hide_border=true" />
-</div>
+| Outil | Usage |
+| :--- | :--- |
+| **Terraform** | Provisionning des VMs (Master/Worker) et réseaux sur **Azure**. |
+| **Ansible** | Gestion de configuration et installation automatisée des dépendances (Docker, Kubeadm). |
+| **Kubernetes** | Orchestration du cluster, gestion des Pods, Services et LoadBalancing. |
+| **Jenkins** | Pipeline CI/CD : Build Docker, Push vers DockerHub, Déploiement automatique sur K8s. |
 
 ---
+
+#### 3. FSBM Scholar Assistant (GenAI & RAG)
+> *Assistant IA contextuel pour l'éducation supérieure.*
+> **Innovation :** Approche hybride combinant RAG (Retrieval-Augmented Generation) et Graphes de Connaissances.
+
+* **Core AI :** Fine-tuning du modèle **LLaMA 3.1** (PEFT/LoRA) sur des données académiques.
+* **Vector & Graph :** Utilisation de **FAISS** pour la recherche vectorielle et **Neo4j** pour les relations sémantiques.
+* **Pipeline :** Implémentation avec **LangChain** et exposition via **FastAPI**.
+
+---
+
+#### 4. E-Health Blockchain DApp (Web3)
+> *Système décentralisé de dossiers médicaux sécurisés.*
+
+* **Smart Contracts :** Développés en **Solidity**, déployés via **Hardhat**.
+* **Sécurité :** Immuabilité des données, authentification via **MetaMask**, gestion des rôles (Médecin/Patient).
+* **Stack :** `React` (Frontend), `Ether.js` (Interaction Blockchain), `Node.js`.
+
+---
+
+#### 5. Residence Manager (Enterprise App)
+> *Système de gestion administrative pour résidences étudiantes.*
+
+* **Architecture :** MVC en couches (Controller, Service, Repository, DTO).
+* **Stack :** `Spring Boot`, `MySQL`, `Thymeleaf/HTML`.
+* **Features :** Gestion des incidents, paiements et réservations.
+
+---
+
+### 📊 GitHub Analytics
+
 <div align="center">
-  <small>⭐️ Merci de ta visite ! N'hésite pas à explorer mes repositories.</small>
+  <img src="https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=omni&hide_border=true&bg_color=0d1117&title_color=009688&icon_color=009688" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON-USERNAME&layout=compact&theme=omni&hide_border=true&bg_color=0d1117&title_color=009688" height="160px"/>
 </div>
