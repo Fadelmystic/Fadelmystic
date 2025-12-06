@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/beniche-mohamed-fadel-9629882b7/">
+  <a href="https://www.linkedin.com/in/beniche-mohamed-fadel/">
     <img src="https://img.shields.io/badge/LinkedIn-Connecter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mohamedfadelbeniche@gmail.com">
