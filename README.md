@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/TON-LINKEDIN">
+  <a href="https://www.linkedin.com/in/beniche-mohamed-fadel-9629882b7/">
     <img src="https://img.shields.io/badge/LinkedIn-Connecter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mohamedfadelbeniche@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me%20Contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/FadelmysticE?tab=repositories">
+  <a href="https://github.com/Fadelmystic?tab=repositories">
     <img src="https://img.shields.io/badge/Projets-Voir%20le%20Code-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
